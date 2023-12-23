@@ -1,0 +1,18 @@
+body {
+    background-color: #eaf2e3; 
+    display: flex;
+    width: 350px; 
+    height: 350px; 
+    justify-content: center;
+    align-items: center; 
+    font-family: 'Arial', sans-serif;
+    border-radius: 25px; 
+    border:3px solid rgb(219, 4, 4);
+  }
+  p {
+    display: inner-flex;
+    font-size: 20px;
+    color: #001F3F; 
+    padding: 10px;
+  }
+  
